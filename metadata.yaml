@@ -1,6 +1,9 @@
 _repo: A-List-of-C-Kegan-Paul-Co-s-Publications-1879_62326
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: A List of C. Kegan Paul and Co.'s Publications [1879]
+covers:
+- cover_type: archival
+  image_path: 62326-h/images/cover.jpg
 creator:
   author:
     agent_name: C. Kegan Paul & Co.
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '51894'
     url: http://www.gutenberg.org/2009/agents/51894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62326#A-List-of-C-Kegan-Paul-Co-s-Publications-1879
 gutenberg_issued: '2020-06-04'
 gutenberg_type: Text
 identifiers:
