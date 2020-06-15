@@ -1,0 +1,27 @@
+_repo: A-List-of-C-Kegan-Paul-Co-s-Publications-1879_62326
+_version: 0.0.1
+alternative_title: A List of C. Kegan Paul and Co.'s Publications [1879]
+creator:
+  author:
+    agent_name: C. Kegan Paul & Co.
+    aliases:
+    - Kegan Paul & Co.
+    - C. Kegan Paul and Co.
+    gutenberg_agent_id: '51894'
+    url: http://www.gutenberg.org/2009/agents/51894
+description: ''
+gutenberg_issued: '2020-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcc 'Z'
+- !lcsh 'C. Kegan Paul & Co. -- Catalogs'
+- GITenberg
+title: A List of C. Kegan Paul & Co.'s Publications [1879]
+url: http://www.gutenberg.org/ebooks/62326
